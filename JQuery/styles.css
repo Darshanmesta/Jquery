@@ -1,0 +1,49 @@
+.newClass{
+  font-style: italic;
+  color: blue;
+}
+
+a:hover{
+  background-color: yellow
+}
+
+.back{
+  background-color: yellow
+}
+
+.box1{
+  width: 20%;
+  height: 20%;
+  text-align: center;
+  padding: 5%;
+  border: 2px solid green;
+  margin-top: 2%;
+  margin-left: 4%;
+  background-color: grey;
+  color: #fff;
+
+}
+
+.box2{
+  width: 5%;
+  height: 5%;
+  text-align: center;
+  padding: 5%;
+  border: 2px solid green;
+  margin-top: 2%;
+  background-color: orange;
+  color: #fff;
+  position: relative;
+}
+
+.box3{
+  width: 5%;
+  height: 2%;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid green;
+  margin-top: 2%;
+  background-color: crimson;
+  color: #fff;
+  position: relative;
+}
